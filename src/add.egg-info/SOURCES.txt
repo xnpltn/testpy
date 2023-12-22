@@ -1,0 +1,13 @@
+LICENCE
+pyproject.toml
+setup.cfg
+setup.py
+src/add/__init__.py
+src/add/main.py
+src/add.egg-info/PKG-INFO
+src/add.egg-info/SOURCES.txt
+src/add.egg-info/dependency_links.txt
+src/add.egg-info/not-zip-safe
+src/add.egg-info/requires.txt
+src/add.egg-info/top_level.txt
+tests/test_main.py
