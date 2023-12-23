@@ -4,6 +4,7 @@ setup.cfg
 setup.py
 src/add/__init__.py
 src/add/main.py
+src/add/py.typed
 src/add.egg-info/PKG-INFO
 src/add.egg-info/SOURCES.txt
 src/add.egg-info/dependency_links.txt
