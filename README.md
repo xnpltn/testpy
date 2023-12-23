@@ -1,1 +1,1 @@
-![Tests](https://github.com/mCodingLLC/SlapThatLikeButton-TestingStarterProject/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/xnpltn/testpy/actions/workflows/tests.yml/badge.svg)
